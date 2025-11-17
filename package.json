@@ -1,0 +1,36 @@
+{
+  "name": "gynecology-clinic-admin",
+  "version": "1.0.0",
+  "description": "Professional Gynecology Clinic Management System",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.75.1",
+    "@tailwindcss/postcss": "^4.1.14",
+    "bcryptjs": "^2.4.3",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^10.16.16",
+    "install": "^0.13.0",
+    "jspdf": "^3.0.3",
+    "jspdf-autotable": "^5.0.2",
+    "lucide-react": "^0.263.1",
+    "mysql2": "^3.6.5",
+    "next": "^14.0.4",
+    "npm": "^11.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.6.0",
+    "recharts": "^2.10.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0"
+  }
+}
